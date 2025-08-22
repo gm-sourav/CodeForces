@@ -24,7 +24,7 @@ int main()
         if (A[i] != B[i])
         {
             cout << "NO";
-        }
+            return 0;        }
     }
 
     cout << " YES" << endl;
