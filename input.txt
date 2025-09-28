@@ -1,9 +1,4 @@
-4
-1
-U
+3
 2
-LR
 5
-LRDLR
-6
-UUUUUU
+17
